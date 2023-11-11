@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "flowbite": "^1.8.1",
+    "tailwindcss": "^3.3.3"
+  },
+  "name": "tailwind-tanya-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "tailwindcss -i input.css -o ./dist/output.css --watch"
+    
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
